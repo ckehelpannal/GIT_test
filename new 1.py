@@ -1,6 +1,6 @@
  def addition(a, b):
 
-  summation = a + b
+
 
   return summation
 
@@ -39,5 +39,23 @@
 # def multiplication(a, b):
 
 #   product = a * b
+
+#   return product
+# def bad_addition(a, b):
+
+#   summation = a + b + 0.002
+
+#   return summation
+
+
+
+#   quotient = (a+13) / b
+
+#   return quotient
+
+
+# def bad_multiplication(a, b):
+
+#   product = a * b + 12
 
 #   return product
