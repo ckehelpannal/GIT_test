@@ -48,6 +48,8 @@
 #   return summation
 
 
+# def bad_subtraction(a, b):
+
 
 #   quotient = (a+13) / b
 
