@@ -12,7 +12,10 @@ def subtraction(a, b):
  return difference
 
 
+<<<<<<< HEAD
 def division(a, b): two
+=======
+
 
 #   quotient = a / b
 
