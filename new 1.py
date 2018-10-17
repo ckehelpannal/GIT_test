@@ -50,6 +50,12 @@
 
 # def bad_subtraction(a, b):
 
+#   difference = a - b + 7
+
+#   return difference
+
+
+# def bad_division(a, b):
 
 #   quotient = (a+13) / b
 
